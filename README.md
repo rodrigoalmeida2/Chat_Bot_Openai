@@ -11,6 +11,8 @@ Este projeto utiliza Python e a API da OpenAI para criar chatbots inteligentes.
    - [Analisador de Sentimentos](#analisador-de-sentimentos)
    - [Detecção de Fraudes](#detecção-de-fraudes)
    - [Categorizador de Produtos](#categorizador-de-produtos)
+5. [Contribuição](#contribuição)
+6. [Contato](#contato)
 
 ---
 
