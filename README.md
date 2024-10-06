@@ -16,23 +16,23 @@ Este projeto utiliza Python e a API da OpenAI para criar chatbots inteligentes.
 
 ---
 
-## Sobre o Projeto 🗂️
-
+## Sobre o Projeto 
+🗂️  
 Este sistema foi desenvolvido para ajudar empresas de vendas a melhorarem sua análise de feedbacks e detecção de fraudes. Ele oferece três funcionalidades principais:
 - **Analisador de Sentimentos**: Avalia as avaliações dos clientes sobre produtos, identificando o sentimento geral, pontos fortes e fracos.
 - **Detecção de Fraudes**: Analisa transações financeiras para identificar possíveis fraudes com base em padrões suspeitos.
 - **Categorizador de Produtos**: Categorização de produtos com base no feedback dos clientes e na demanda de vendas.
 
-## Tecnologias Utilizadas 💻
-
+## Tecnologias Utilizadas 
+💻  
 Este projeto faz uso das seguintes tecnologias:
 - **Python**: Linguagem principal utilizada.
 - **API da OpenAI**: Para análise de texto e criação de chatbots inteligentes.
 - **dotenv**: Para gerenciamento seguro de variáveis de ambiente.
 - **JSON**: Formato de dados para transações e comunicações entre serviços.
 
-## Instalação ⚙️
-
+## Instalação 
+⚙️  
 Siga os passos abaixo para configurar o projeto localmente:
 
 1. Clone este repositório:
@@ -55,8 +55,8 @@ Siga os passos abaixo para configurar o projeto localmente:
    OPENAI_API_KEY=your-openai-api-key
 
 
-## Como Usar 🤳🏾
-
+## Como Usar 
+🤳🏾  
 **Analisador de Sentimentos**  
 - Este módulo analisa avaliações de clientes sobre produtos e gera um relatório com sentimento geral, pontos fortes e fracos do produto:  
   1. Adicione as avaliações de um produto em um arquivo ```.txt``` no diretório ```./dados/``` com o nome ```avaliacoes-[nome_do_produto].txt```.
@@ -78,7 +78,8 @@ Siga os passos abaixo para configurar o projeto localmente:
     1. O sistema utilizará as avaliações analisadas para sugerir categorias.  
     2. A execução é automática após a análise de sentimentos, gerando sugestões com base nas informações coletadas.
 
-## Contribuição  🙏🏼
+## Contribuição  
+🙏🏼  
 Contribuições são bem-vindas! Siga os passos abaixo:  
 
   - Faça um fork do repositório.
