@@ -57,7 +57,7 @@ Siga os passos abaixo para configurar o projeto localmente:
 
 ## Como Usar 
 🤳🏾  
-**Analisador de Sentimentos**  
+### **Analisador de Sentimentos**  
 - Este módulo analisa avaliações de clientes sobre produtos e gera um relatório com sentimento geral, pontos fortes e fracos do produto:  
   1. Adicione as avaliações de um produto em um arquivo ```.txt``` no diretório ```./dados/``` com o nome ```avaliacoes-[nome_do_produto].txt```.
   2. Execute o analisador de sentimentos:
@@ -65,7 +65,7 @@ Siga os passos abaixo para configurar o projeto localmente:
      python analisador_de_sentimentos.py
   3. O resultado será salvo no diretório ```./dados/``` como ```analise-[nome_do_produto].txt```.
 
-**Detecção de Fraudes**  
+### **Detecção de Fraudes**  
 - Este módulo analisa transações financeiras e determina se há possíveis fraudes:  
   1. Adicione um arquivo ```.csv``` com as transações no diretório ```./dados/```.
   2. Execute o analisador de transações:
@@ -73,7 +73,7 @@ Siga os passos abaixo para configurar o projeto localmente:
      python analisador_transacoes.py
   3. O resultado será um arquivo JSON com a análise, incluindo o status da transação ("Aprovado" ou "Possível Fraude").  
 
-**Categorizador de Produtos**  
+### **Categorizador de Produtos**  
 - Baseado nas avaliações e nos feedbacks, este módulo categoriza os produtos conforme suas demandas e características:  
     1. O sistema utilizará as avaliações analisadas para sugerir categorias.  
     2. A execução é automática após a análise de sentimentos, gerando sugestões com base nas informações coletadas.
