@@ -78,28 +78,4 @@ Siga os passos abaixo para configurar o projeto localmente:
     1. O sistema utilizará as avaliações analisadas para sugerir categorias.  
     2. A execução é automática após a análise de sentimentos, gerando sugestões com base nas informações coletadas.
 
-## Contribuição  
-🙏🏼  
-Contribuições são bem-vindas! Siga os passos abaixo:  
 
-  - Faça um fork do repositório.
-  - Crie uma branch com a sua feature
-    ```bash
-    git checkout -b feature/nova-feature
-  - Commit suas mudanças
-    ```bash
-    git commit -m "Adiciona nova feature"
-  - Envie para o repositório original
-    ```bash
-    git push origin feature/nova-feature
-  - Abra um Pull Request.
-
-## Contato  
-<p align="left">
-  <a href="mailto:rodrigoalmeida350.ra@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/rodrigo101/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/rodrigoalmeida2k/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
